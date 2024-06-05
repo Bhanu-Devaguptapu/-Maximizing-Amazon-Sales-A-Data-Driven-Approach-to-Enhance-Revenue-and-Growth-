@@ -19,4 +19,29 @@ This repository contains code and resources for the "Maximizing Amazon Sales" pr
 - scikit-learn
 - TensorFlow/Keras (for recommendation systems)
 
+## Getting Started
+1. Clone this repository:
 
+git clone https://github.com/your-username/amazon-sales-project.git
+
+2. Navigate to the project directory:
+
+cd amazon-sales-project
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Explore the notebooks in the `notebooks/` directory for data analysis, modeling, and visualization.
+
+## Usage
+- Run the Jupyter notebooks sequentially to reproduce the analysis and generate insights.
+- Modify the code as needed to adapt to different datasets or customize the analysis for specific business requirements.
+- Refer to the reports and presentation for a summary of key findings and actionable recommendations.
+
+## Contributors
+- [Your Name](https://github.com/your-username)
+- [Collaborator Name](https://github.com/collaborator-username)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
