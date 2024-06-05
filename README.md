@@ -40,8 +40,7 @@ pip install -r requirements.txt
 - Refer to the reports and presentation for a summary of key findings and actionable recommendations.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
-- [Collaborator Name](https://github.com/collaborator-username)
+- [Bhanu Devaguptapu](https://github.com/your-username)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
